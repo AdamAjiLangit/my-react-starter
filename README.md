@@ -1,6 +1,6 @@
-# React Starter Project
+# Next.js, React Starter Project
 
-This project is a React starter project built with Next.js 15. It provides a solid foundation for building modern and efficient web applications.
+This project is a Next.js, React starter project built with Next.js 15. It provides a solid foundation for building modern and efficient web applications.
 
 **Key Features:**
 
